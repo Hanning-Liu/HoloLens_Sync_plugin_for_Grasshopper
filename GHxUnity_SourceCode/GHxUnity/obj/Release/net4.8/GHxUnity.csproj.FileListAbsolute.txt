@@ -1,0 +1,11 @@
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\bin\Release\net4.8\GHxUnity.gha
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\bin\Release\net4.8\GHxUnity.pdb
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.csproj.AssemblyReference.cache
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.Resource.resources
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.csproj.GenerateResource.cache
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.AssemblyInfoInputs.cache
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.AssemblyInfo.cs
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.csproj.CoreCompileInputs.cache
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.gha
+C:\Users\77950\Desktop\0604\GHxUnity_Plugin\GHxUnity\GHxUnity\obj\Release\net4.8\GHxUnity.pdb
